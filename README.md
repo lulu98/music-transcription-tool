@@ -11,6 +11,9 @@ Audio Spectrogram Tool: https://youtu.be/qhMsQarDhBM
 before being transformed into the frequency domain by an FFT. The FFT data will then be analyzed by custom functions to translate the processed audio data 
 into notation that can be understood by Lilypond to create a notesheet and midi file out of the recognised melody.</p>
 
+### Limitations
+The current version only works properly for whistling. For singing or instrument recording the probability is pretty low for getting satisfying results.
+
 ## Getting Started
 The source code of the project can be found here: https://atreus.informatik.uni-tuebingen.de/graber/bachelor_thesis
 
