@@ -1,0 +1,8 @@
+#!/bin/bash
+sudo apt-get install alsa-base alsa-utils alsa-tools-gui
+sudo apt-get install libasound2 libasound2-dev
+sudo apt-get install libfftw3-dev
+sudo apt-get install portaudio19-dev python-pyaudio python3-pyaudio
+sudo apt-get install python3-numpy
+sudo apt-get install python3-pyqt5
+sudo apt-get install doxygen doxygen-doc doxygen-gui graphviz
