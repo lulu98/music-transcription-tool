@@ -1,5 +1,4 @@
 # Music Transcription Software
-## Demonstration
 Demonstration video: https://music-transcription-software.000webhostapp.com/projects/music_transcription.html
 
 ## Pipeline
