@@ -1,10 +1,18 @@
 # Music Transcription Software
+## Demonstration
+Melody Detection Tool: https://youtu.be/tkskGNphfE0  
+Chord Detection Tool: https://youtu.be/5ArML1U4IFw  
+Audio Spectrogram Tool: https://youtu.be/qhMsQarDhBM
+
 ## Pipeline
 <img src="./assets/pipeline.png" alt="Audio Transcription Pipeline" width="100%" />
 
 <p>The pipeline will capture raw audio input and transcribes it into a musical notation. Over the course of the pipeline the audio data will be preprocessed 
 before being transformed into the frequency domain by an FFT. The FFT data will then be analyzed by custom functions to translate the processed audio data 
 into notation that can be understood by Lilypond to create a notesheet and midi file out of the recognised melody.</p>
+
+### Limitations
+The current version only works properly for whistling. For singing or instrument recording the probability is pretty low for getting satisfying results.
 
 ## Getting Started
 The source code of the project can be found here: https://atreus.informatik.uni-tuebingen.de/graber/bachelor_thesis
