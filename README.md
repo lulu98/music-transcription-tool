@@ -1,4 +1,9 @@
 # Music Transcription Software
+## Demonstration
+Melody Detection Tool: https://youtu.be/tkskGNphfE0
+Chord Detection Tool: https://youtu.be/5ArML1U4IFw
+Audio Spectrogram Tool: https://youtu.be/qhMsQarDhBM
+
 ## Pipeline
 <img src="./assets/pipeline.png" alt="Audio Transcription Pipeline" width="100%" />
 
