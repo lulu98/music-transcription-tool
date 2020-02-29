@@ -1,12 +1,4 @@
 # Music Transcription Software
-
-## Folder structure
-
-The project is divided in three main directories:  
-- code: The actual code of the program. 
-- expose: Information regarding the expose and initial goals. 
-- thesis: The actual bachelor thesis and the latex files to create the pdf.
-
 ## Pipeline
 <img src="pipeline.png" alt="Audio Transcription Pipeline" width="50%" />
 
