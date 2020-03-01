@@ -1,5 +1,5 @@
 # Music Transcription Software
-Demonstration video: https://music-transcription-software.000webhostapp.com/projects/music_transcription.html
+Demonstration video: http://www.lukas-graber.tk/projects/music_transcription.html
 
 ## Pipeline
 <img src="./assets/pipeline.png" alt="Audio Transcription Pipeline" width="100%" />
